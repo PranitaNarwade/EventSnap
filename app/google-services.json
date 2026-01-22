@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "613453709618",
+    "firebase_url": "https://eventsnap-eefd4-default-rtdb.firebaseio.com",
+    "project_id": "eventsnap-eefd4",
+    "storage_bucket": "eventsnap-eefd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613453709618:android:a8c2727f6ba769fac7572b",
+        "android_client_info": {
+          "package_name": "com.example.eventsnap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZpCbsZnP2SiAmgSHOKNTinv6eSewvOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
